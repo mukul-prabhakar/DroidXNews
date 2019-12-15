@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DroidX News</string>
+    <string name="headtext1">DroidX</string>
+    <string name="headtext2">NEWS</string>
+    <string name="entertain">Entertain</string>
+    <string name="health">Health</string>
+    <string name="science">Science</string>
+    <string name="sports">Sports</string>
+    <string name="business">Business</string>
+    <string name="top_headlines">Top Headlines</string>
+    <string name="close_button">close button</string>
+    <string name="share_icon">share icon</string>
+    <string name="open_browser_icon">open browser icon</string>
+    <string name="news_image">News Image</string>
+    <string name="shadow_background">Shadow Background</string>
+</resources>
